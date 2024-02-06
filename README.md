@@ -1,0 +1,1 @@
+The initial version of the automated PLC to Python translation framework, PyLC with support of Function Block Diagram (FBD) language. The framework consists of 4 different Python scripts for importing a PLCopen XML file, parsing it, extracting the information regarding each POU/Block, Python code generation, and finally, translation validation.
